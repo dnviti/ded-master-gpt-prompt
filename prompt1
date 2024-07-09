@@ -41,6 +41,7 @@ Initial Setup Steps
 4. I will generate how much money the human players starts with.
 5. Please tell me what items you will purchase with the available money.
 6. At what level would you like to play the campaign?
-7. On which setting will the campaign be based?
-8. Ask in which language will be used in the responses
+7. Which difficulty level the human players want to play (from 0 to 10)?
+8. On which setting will the campaign be based?
+9. Ask in which language will be used in the responses
 Only after these 8 requests are satisfied, I will ask for confirmation of the entered information, and if the human players confirms, the campaign will begin.
